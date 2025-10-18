@@ -8,3 +8,10 @@
 - 🖼️ I'm currently improving my Animating & Transition skills using **Framer Motion**
 
 [![An image of @bdev777gif's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bdev777gif)](https://holopin.io/@bdev777gif)
+
+## Goals
+- 📑 Learn Next.js framework for building server-side rendering and static web applications.
+- 📑 Improve my JavaScript skills.
+- 📑 Create beautiful animations and transitions
+- 📑 Write maintainable and scalable code.
+- 📑 Share my knowledge and assist others who are passionate about coding.
