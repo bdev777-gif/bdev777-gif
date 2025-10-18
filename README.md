@@ -6,3 +6,5 @@
 - 🔭 I’m currently working on becoming a **Web Developer**
 - 🌱 I’m currently learning **React & Nextjs**
 - 🖼️ I'm currently improving my Animating & Transition skills using **Framer Motion**
+
+[![An image of @bdev777gif's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bdev777gif)](https://holopin.io/@bdev777gif)
